@@ -1,3 +1,4 @@
+my name is sanjeev kumar
 git config --global user.name “devsk13”
 git config --global user.name “devsk13”
 
