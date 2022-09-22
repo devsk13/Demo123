@@ -1,7 +1,9 @@
 my name is sanjeev kumar
 sanjay kumar sinha
 vartika bihar
-tcs employee 
+tcs employee
+manoj deepak 
+globallogic
 git config --global user.name “devsk13”
 git config --global user.name “devsk13”
 
