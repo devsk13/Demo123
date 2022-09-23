@@ -1,1 +1,10 @@
 1234ewdsedfresderf
+
+
+
+yesterday had a cal with tom flyn after scrum call he told me that robin is busy in some other work 
+so he is not able to review my code changes currently may be by monday he will able to review it.
+
+apart from that yesterday i had a meeting with pool team i attended it.
+i also created a demo session on git  for future refrence 
+currently i m working on kubernetes.
